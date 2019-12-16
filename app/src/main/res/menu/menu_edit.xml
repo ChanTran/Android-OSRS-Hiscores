@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.chan.myapplicationtest.NoteEditActivity">
+    <item
+        android:id="@+id/action_editDone"
+        android:title="SAVE"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/action_back"
+        android:title="BACK"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/action_delete"
+        android:title="DELETE"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_delete"
+        />
+    <item
+        android:id="@+id/action_mark"
+        android:title="MARK"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_beenhere_white_24dp"
+        />
+</menu>

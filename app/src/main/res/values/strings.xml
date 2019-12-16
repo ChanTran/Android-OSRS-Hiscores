@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OSRS Highscores</string>
+    <string name="compare">Compare</string>
+    <string name="enter_a_username">Enter a username</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="goals">Goals</string>
+    <string name="notes">Notes</string>
+    <string name="enter">ENTER</string>
+    <string name="enter_a_username_to_search">Look up any player\'s stats here!</string>
+</resources>
